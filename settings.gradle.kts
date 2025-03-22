@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Sonu Jukebox"
+rootProject.name = "Suno Jukebox"
 include(":app")

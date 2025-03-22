@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.cougar.sonujukebox"
+    namespace = "com.cougar.sunojukebox"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.cougar.sonujukebox"
+        applicationId = "com.cougar.sunojukebox"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
